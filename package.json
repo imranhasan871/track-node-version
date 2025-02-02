@@ -2,6 +2,7 @@
   "name": "track-node-version",
   "version": "1.0.1",
   "description": "A CLI tool to automatically track the Node.js version used in a project",
+  "type": "module",
   "bin": {
     "track-node-version": "bin/cli.js"
   },
@@ -10,5 +11,8 @@
   },
   "dependencies": {},
   "author": "Imran Hasan",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.18.1"
+  }
 }
