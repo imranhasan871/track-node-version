@@ -1,6 +1,6 @@
 {
   "name": "track-node-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to automatically track the Node.js version used in a project",
   "bin": {
     "track-node-version": "bin/cli.js"
