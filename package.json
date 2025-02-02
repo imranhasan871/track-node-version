@@ -1,0 +1,14 @@
+{
+  "name": "track-node-version",
+  "version": "1.0.0",
+  "description": "A CLI tool to automatically track the Node.js version used in a project",
+  "bin": {
+    "track-node-version": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "author": "Imran Hasan",
+  "license": "MIT"
+}
